@@ -51,6 +51,12 @@
     margin-right: 10px;
 }
 
+#post-list article footer .actions button {
+    background: transparent;
+    border: 0;
+    cursor: pointer;
+}
+
 #post-list article footer p {
     font-size: 13px;
     margin-top: 2px;
